@@ -1,0 +1,1 @@
+﻿Add-Migration -Context JHContext -o Data\JHMigrations InitialUpdate-Database -Context JHContext 
